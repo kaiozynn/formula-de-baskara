@@ -1,0 +1,40 @@
+body {
+    background: rgb(80, 80, 250);
+    font: normal 15pt Arial;
+    background-image: url('asta 4k.jpg');
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.354);
+    text-align: center;
+    
+    
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+input#vA {
+    width: 45px;
+}
+
+input#vB {
+    width: 45px;
+}
+
+input#vC {
+    width: 45px;
+}
