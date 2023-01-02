@@ -1,7 +1,6 @@
 body {
     background: rgb(80, 80, 250);
     font: normal 15pt Arial;
-    background-image: url('asta 4k.jpg');
 }
 
 header {
@@ -12,13 +11,15 @@ header {
 section {
     background: white;
     border-radius: 10px;
-    padding: 15px;
+    padding: 20px;
+    color: white;
     width: 500px;
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.354);
     text-align: center;
-    
-    
+    background-image: url('asta 4k.jpg');
+    background-position: center center;
+    background-size: cover;
 }
 
 footer {
